@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.exe
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.deps.json
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.runtimeconfig.json
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.dll
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.pdb
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.dll
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\refint\Day-29-UC1-LoadDataFromCSV.dll
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.pdb
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\ref\Day-29-UC1-LoadDataFromCSV.dll
